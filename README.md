@@ -1,5 +1,3 @@
-# -ImproveEnglishEssayWithAI
-
 # [Project Overview](https://www.ischool.berkeley.edu/projects/2024/wastewizard)
 ###### <i>UC Berkeley MIDS `Natural Language Processing with Deep Learning` Group Project</i>
 
