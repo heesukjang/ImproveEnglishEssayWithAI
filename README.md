@@ -13,5 +13,5 @@ WWe employed both **BERT (Bidirectional Encoder Representations from Transformer
 ### Performance Enhancement Techniques and Performance Results:
 Starting with a frozen BERT-base-cased model as a baseline, we experimented with unfreezing various numbers of lower layers and adjusting hyperparameters on both BERT and BERTweet to allow the models to learn from different usages of English during training. We also applied clustering and stratified k-fold cross-validation to check for patterns in score distributions and to ensure our model generalized well across different data partitions, particularly at the lower and higher ends of the scoring scale.
 
-However, since the analytical measures followed a normal distribution, clustering through K-means and k-fold cross-validation did not improve model performance. Our top result was a moderate MCRMSE loss score of 46%, achieved with 12 trainable layers in the BERT transformer model.
+However, since the analytical measures followed a normal distribution, applying K-means clustering and k-fold cross-validation did not significantly enhance model performance. Our best result was a moderate MCRMSE loss score of 46%, achieved with 12 trainable layers in the BERT transformer model.
 
