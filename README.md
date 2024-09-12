@@ -1,4 +1,4 @@
-# [Project Overview](https://www.ischool.berkeley.edu/projects/2024/wastewizard)
+# Project Overview
 ###### <i>UC Berkeley MIDS `Natural Language Processing with Deep Learning` Group Project</i>
 
 ##### Objective: 
