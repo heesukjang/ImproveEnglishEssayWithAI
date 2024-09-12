@@ -1,7 +1,7 @@
 # Project Overview
 ###### <i>UC Berkeley MIDS `Natural Language Processing with Deep Learning` Group Project</i>
 
-#### Objective: 
+### Objective: 
 The goal of this project is to develop an Automated Essay Scoring (AES) system utilizing Natural Language Processing (NLP) technologies to autonomously grade argumentative essays, specifically targeting English Language Learners (ELLs) in grades 8 to 12. Current automated feedback tools often fail to provide feedback tailored to a student's language proficiency, which can result in biased evaluations. Our AES system is designed to enhance these tools by offering more personalized feedback to better support the unique needs of ELLs.
 
 ##### Scoring Criteria:
