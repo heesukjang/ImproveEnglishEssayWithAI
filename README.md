@@ -18,4 +18,9 @@ However, since the analytical measures followed a normal distribution, applying 
 For more details on the teamwork, please refer to the link below:
 * [Team GitHub](https://github.com/srilamaiti/spring_2023_w266_final_project_heesuk_iris_srila/tree/main)
 
+<h3>Tehnologies Used:</h3> 
+Python, NLTK, Transformers, Wordcloud, Tensorflow, Keras, Sklearn, Google Colab on GCP
+<h3>Models Utilized:</h3> 
+BERT and BERTweet Transformer models
+
 
