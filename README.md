@@ -15,3 +15,7 @@ Starting with a frozen BERT-base-cased model as a baseline, we experimented with
 
 However, since the analytical measures followed a normal distribution, applying K-means clustering and k-fold cross-validation did not significantly enhance model performance. Our best result was a moderate MCRMSE loss score of 46%, achieved with 12 trainable layers in the BERT transformer model.
 
+For more details on the teamwork, please refer to the link below:
+* [Team GitHub](https://github.com/srilamaiti/spring_2023_w266_final_project_heesuk_iris_srila/tree/main)
+
+
