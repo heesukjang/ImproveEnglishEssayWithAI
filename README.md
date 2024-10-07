@@ -20,7 +20,5 @@ For more details on the teamwork, please refer to the link below:
 
 <h3>Tehnologies Used:</h3> 
 Python, NLTK, Transformers, Wordcloud, Tensorflow, Keras, Sklearn, Google Colab on GCP
-<h3>Models Utilized:</h3> 
-BERT and BERTweet Transformer models
 
 
